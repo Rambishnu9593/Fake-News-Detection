@@ -1,1 +1,12 @@
+Open any web browser like Google Chrome or Firefox.
+Copy and paste the following link into the browser’s address bar:
 https://drive.google.com/drive/folders/1lZHnx_KseFsz2UIqHyPyPbpOlq0ONcXe?usp=sharing
+Press Enter to open the Google Drive folder.
+You will see two files: FAKE.csv and TRUE.csv.
+Right-click on FAKE.csv.
+Click on "Download" from the menu that appears.
+The file will start downloading to your computer.
+Now, right-click on TRUE.csv.
+Click on "Download" again.
+This file will also start downloading to your computer.
+Both files (FAKE.csv and TRUE.csv) will be saved in your Downloads folder by default.
