@@ -1,7 +1,7 @@
 # 📰 Fake News Detection using Python 🧠🔍
 Built as part of the Pinnacle Labs Internship ✅
 
-A machine learning project to detect fake news articles using Natural Language Processing (NLP) and classification techniques. This tool helps in identifying whether a news article is real or fake with decent accuracy.
+A machine learning project to detect fake news articles using Python Language and classification techniques. This tool helps in identifying whether a news article is real or fake with decent accuracy.
 
 
 
