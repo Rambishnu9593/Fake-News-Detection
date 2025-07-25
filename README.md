@@ -74,9 +74,12 @@ This project was developed under the Pinnacle Labs Internship 🏢
 
 # 🙋‍♂️ Made By
 Rambishnu Chand
+
 🎓 B.Tech in Electronics & Communication
+
 💼 Intern @ Pinnacle Labs
-🔗 https://www.linkedin.com/posts/rambishnu-chand-b6a2162a0_fakenewsdetection-machinelearning-pinnaclelabs-activity-7353118663727570944-CLGg?utm_source=share&utm_medium=member_android&rcm=ACoAAEilmAIBtz1crCttiiDGpdvFRmJnpL-S5kg
+
+LinkedIn 🔗 https://www.linkedin.com/posts/rambishnu-chand-b6a2162a0_fakenewsdetection-machinelearning-pinnaclelabs-activity-7353118663727570944-CLGg?utm_source=share&utm_medium=member_android&rcm=ACoAAEilmAIBtz1crCttiiDGpdvFRmJnpL-S5kg
 
 
 
