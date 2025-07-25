@@ -75,7 +75,7 @@ This project was developed under the Pinnacle Labs Internship 🏢
 # 🙋‍♂️ Made By
 Rambishnu Chand
 
-🎓 B.Tech in Electronics & Communication
+🎓 B.Tech in Electronics & Communication Engineering
 
 💼 Intern @ Pinnacle Labs
 
